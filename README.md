@@ -73,16 +73,22 @@ https://en.wikipedia.org/wiki/Natural_language_processing
 
 - **Text and speech processing** (텍스트 및 음성 처리)
 
-  Optical character recognition (문자인식), Speech recognition (음성 인식), Speech segmentation (음성 분할), Text-to-speech (음성 변환), Word segmentation (단어 분할, 토큰화)
+  Optical character recognition (문자인식), Speech recognition (음성 인식), Speech segmentation (음성 분할), Text-to-speech (음성 변환), Word segmentation (단어 분할, 토큰화; 띄어쓰기?)
 
 - **Morphological analysis** (형태소 분석)
 
-  Lemmatization (표제어 추출), Morphological segmentation (형태소 분할), Part-of-speech tagging (품사 태깅), Stemming (어간 추출)
+  **친구**/명사+**에게**/조사+**서**/조사+**이**/서술격조사+**었**/과거시제어미/+**었**/회상어미+**다**/어말어미/+**라고**/인용격조사
 
-- **Syntactic analysis** (구문 분석)
-- **Lexical semantics** (각 단어의 어휘 의미)
-- **Relational semantics** (각 문장의 관계 의미)
+  Lemmatization (표제어 추출; 영어 원형 찾기), Morphological segmentation (형태소 분할), Part-of-speech tagging (품사 태깅), Stemming (어간 추출; 한국어  **잡**/어간+**다**/어미)
+
+- **Syntactic analysis** (구문 분석; 문법을 이용해 문장의 구조 찾기)
+
+- **Lexical semantics** (각 단어의 어휘 의미; 동의어 반의어)
+
+- **Relational semantics** (각 문장의 관계 의미; 누가 누구랑 친구?)
+
 - **Discourse** (담론, 각 문장 단위를 넘어선 의미)
+
 - **Higher-level NLP applications**
 
 ![NLP](http://t1.kakaocdn.net/braincloud/homepage/article_image/c0265118-dbab-4ec9-93f1-3caac4efb039.png)
